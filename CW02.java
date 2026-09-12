@@ -39,5 +39,9 @@ public class CW02{
         int m = 10;
         System.out.println(m);// 10
         System.out.println(l+m);// klj10
+        // Extra
+        double n = 2.00;
+        String l = "abc";
+        System.out.println(n + l); // 2.00abc
     }
 }
